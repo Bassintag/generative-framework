@@ -1,6 +1,6 @@
 {
   "name": "generative-framework",
-  "version": "1.0.0",
+  "version": "0.0.1g",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "types": "types/index.d.ts",
