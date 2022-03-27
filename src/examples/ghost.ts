@@ -1,9 +1,5 @@
 import { sketch } from "../sketch";
-import { noise } from "../utils/noise";
-import { lerp } from "../utils";
-import { repeat } from "../utils/repeat";
-import { randInt } from "../utils/randInt";
-import { randRange } from "../utils/randRange";
+import { lerp, noise, randInt, randRange, repeat } from "../utils";
 
 void sketch((c) => {
   const noiseScale = randRange(1, 3);
