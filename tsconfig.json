@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "ES2020"],
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "declarationDir": "types",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "rootDir": "src",
+    "baseUrl": "src",
+    "jsx": "react",
+    "skipLibCheck": true
+  },
+  "include": [
+    "src"
+  ]
+}
